@@ -3,5 +3,5 @@
 	url = https://github.com/cu-ecen-5013/assignment-autotest
 [submodule "buildroot"]
 	path = buildroot
-	url = git@github.com:buildroot/buildroot.git
-	branch = 2023.08.4
+	url = https://git.busybox.net/buildroot/
+	branch = 2023.08.x
