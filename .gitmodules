@@ -4,5 +4,5 @@
 	branch = master
 [submodule "buildroot"]
 	path = buildroot
-	url = https://git.busybox.net/buildroot/
+	url = https://github.com/buildroot/buildroot
 	branch = 2023.08.x
